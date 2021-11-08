@@ -1,0 +1,560 @@
+,Field Name,Description ,Panda Data Type,Data Scale,Min. Value,Max. Value,Unique Values,Missing Value Count
+0,Afghanistan-retail_recreation,Afghanistan-retail_recreation:2020-02-15 00-00-00,object,(-56.0)-(49.0),-56.0,49.0,142,74
+1,Afghanistan-grocery_pharmacy,Afghanistan-grocery_pharmacy:2020-02-15 00-00-00,object,(-42.0)-(95.0),-42.0,95.0,174,74
+2,Afghanistan-parks,Afghanistan-parks:2020-02-15 00-00-00,object,(-38.5)-(29.5),-38.5,29.5,102,73
+3,Afghanistan-transit_stations,Afghanistan-transit_stations:2020-02-15 00-00-00,object,(-51.0)-(22.5),-51.0,22.5,104,52
+4,Afghanistan-workplaces,Afghanistan-workplaces:2020-02-15 00-00-00,object,(-70.0)-(9.5),-70.0,9.5,98,49
+5,Afghanistan-residential,Afghanistan-residential:2020-02-15 00-00-00,object,(-3.0)-(21.0),-3.0,21.0,47,49
+6,Angola-retail_recreation,Angola-retail_recreation:2020-02-16 00-00-00,object,(-64.0)-(3.5),-64.0,3.5,41,360
+7,Angola-grocery_pharmacy,Angola-grocery_pharmacy:2020-02-16 00-00-00,object,(-45.0)-(15.0),-45.0,15.0,40,362
+8,Angola-parks,Angola-parks:2020-02-16 00-00-00,object,(-54.5)-(9.0),-54.5,9.0,25,388
+9,Angola-transit_stations,Angola-transit_stations:2020-02-16 00-00-00,object,(-68.5)-(3.5),-68.5,3.5,27,388
+10,Angola-workplaces,Angola-workplaces:2020-02-15 00-00-00,object,(-76.16666667)-(13.0),-76.16666667,13.0,203,4
+11,Angola-residential,Angola-residential:2020-02-16 00-00-00,object,(0.0)-(22.5),0.0,22.5,24,363
+12,Antigua and Barbuda-retail_recreation,Antigua and Barbuda-retail_recreation:2020-04-05 00-00-00,object,(-95.5)-(-54.5),-95.5,-54.5,7,410
+13,Antigua and Barbuda-grocery_pharmacy,Antigua and Barbuda-grocery_pharmacy:2020-04-05 00-00-00,object,(-95.5)-(-32.5),-95.5,-32.5,7,410
+14,Antigua and Barbuda-parks,Antigua and Barbuda-parks:2020-04-05 00-00-00,object,(-80.5)-(-38.0),-80.5,-38.0,7,410
+15,Antigua and Barbuda-transit_stations,Antigua and Barbuda-transit_stations:2020-02-15 00-00-00,object,(-97.0)-(9.666666667),-97.0,9.666666667,68,329
+16,Antigua and Barbuda-workplaces,Antigua and Barbuda-workplaces:2020-04-05 00-00-00,object,(-90.5)-(-35.0),-90.5,-35.0,12,405
+17,Antigua and Barbuda-residential,Antigua and Barbuda-residential:2020-08-17 00-00-00,object,(7.0)-(20.0),7.0,20.0,12,398
+18,Aruba-retail_recreation,Aruba-retail_recreation:2020-02-15 00-00-00,object,(-96.0)-(20.0),-96.0,20.0,85,29
+19,Aruba-grocery_pharmacy,Aruba-grocery_pharmacy:2020-02-15 00-00-00,object,(-96.0)-(40.0),-96.0,40.0,73,29
+20,Aruba-parks,Aruba-parks:2020-02-15 00-00-00,object,(-88.0)-(86.0),-88.0,86.0,125,29
+21,Aruba-transit_stations,Aruba-transit_stations:2020-02-15 00-00-00,object,(-92.0)-(29.0),-92.0,29.0,71,29
+22,Aruba-workplaces,Aruba-workplaces:2020-02-15 00-00-00,object,(-91.0)-(6.0),-91.0,6.0,78,10
+23,Aruba-residential,Aruba-residential:2020-02-15 00-00-00,object,(-11.0)-(35.0),-11.0,35.0,45,26
+24,Austria-workplaces,Austria-workplaces:2020-02-17 00-00-00,object,(-86.43298969)-(2.793814433),-86.43298969,2.793814433,280,130
+25,Austria-residential,Austria-residential:2020-08-17 00-00-00,object,(-0.613636364)-(4.279069767),-0.613636364,4.279069767,19,398
+26,Bahrain-retail_recreation,Bahrain-retail_recreation:2020-02-15 00-00-00,object,(-61.0)-(-2.0),-61.0,-2.0,52,4
+27,Bahrain-grocery_pharmacy,Bahrain-grocery_pharmacy:2020-02-15 00-00-00,object,(-32.0)-(5.0),-32.0,5.0,33,4
+28,Bahrain-parks,Bahrain-parks:2020-02-15 00-00-00,object,(-66.0)-(11.0),-66.0,11.0,54,4
+29,Bahrain-transit_stations,Bahrain-transit_stations:2020-02-15 00-00-00,object,(-56.0)-(0.0),-56.0,0.0,47,4
+30,Bahrain-workplaces,Bahrain-workplaces:2020-02-15 00-00-00,object,(-64.0)-(7.0),-64.0,7.0,49,4
+31,Bahrain-residential,Bahrain-residential:2020-02-15 00-00-00,object,(0.0)-(25.0),0.0,25.0,25,4
+32,Bangladesh-retail_recreation,Bangladesh-retail_recreation:2020-02-15 00-00-00,object,(-77.0)-(18.0),-77.0,18.0,94,4
+33,Bangladesh-grocery_pharmacy,Bangladesh-grocery_pharmacy:2020-02-15 00-00-00,object,(-56.0)-(50.0),-56.0,50.0,103,4
+34,Bangladesh-parks,Bangladesh-parks:2020-02-15 00-00-00,object,(-42.0)-(45.0),-42.0,45.0,73,4
+35,Bangladesh-transit_stations,Bangladesh-transit_stations:2020-02-15 00-00-00,object,(-73.0)-(36.0),-73.0,36.0,102,4
+36,Bangladesh-workplaces,Bangladesh-workplaces:2020-02-15 00-00-00,object,(-66.0)-(24.0),-66.0,24.0,82,4
+37,Bangladesh-residential,Bangladesh-residential:2020-02-15 00-00-00,object,(-1.0)-(28.0),-1.0,28.0,30,4
+38,Barbados-retail_recreation,Barbados-retail_recreation:2020-02-22 00-00-00,object,(-38.71428571)-(2.0),-38.71428571,2.0,6,411
+39,Barbados-grocery_pharmacy,Barbados-grocery_pharmacy:2020-08-22 00-00-00,object,(-15.0)-(-13.0),-15.0,-13.0,3,414
+40,Barbados-workplaces,Barbados-workplaces:2020-02-17 00-00-00,object,(-90.28571429)-(4.5),-90.28571429,4.5,259,98
+41,Barbados-residential,Barbados-residential:2020-08-17 00-00-00,object,(4.0)-(17.0),4.0,17.0,13,392
+42,Belarus-retail_recreation,Belarus-retail_recreation:2020-02-15 00-00-00,object,(-87.0)-(17.0),-87.0,17.0,59,4
+43,Belarus-grocery_pharmacy,Belarus-grocery_pharmacy:2020-02-15 00-00-00,object,(-86.0)-(43.0),-86.0,43.0,51,4
+44,Belarus-parks,Belarus-parks:2020-02-15 00-00-00,object,(-74.0)-(138.0),-74.0,138.0,129,4
+45,Belarus-transit_stations,Belarus-transit_stations:2020-02-15 00-00-00,object,(-87.0)-(19.0),-87.0,19.0,53,4
+46,Belarus-workplaces,Belarus-workplaces:2020-02-15 00-00-00,object,(-87.0)-(43.0),-87.0,43.0,57,4
+47,Belarus-residential,Belarus-residential:2020-02-15 00-00-00,object,(-35.0)-(22.0),-35.0,22.0,34,4
+48,Belgium-retail_recreation,Belgium-retail_recreation:2020-02-15 00-00-00,object,(-86.92857143)-(19.14285714),-86.92857143,19.14285714,338,13
+49,Belgium-grocery_pharmacy,Belgium-grocery_pharmacy:2020-02-15 00-00-00,object,(-84.21428571)-(38.64285714),-84.21428571,38.64285714,280,7
+50,Belgium-parks,Belgium-parks:2020-02-15 00-00-00,object,(-67.07142857)-(178.5),-67.07142857,178.5,317,67
+51,Belgium-transit_stations,Belgium-transit_stations:2020-02-15 00-00-00,object,(-80.14285714)-(11.07142857),-80.14285714,11.07142857,323,4
+52,Belgium-workplaces,Belgium-workplaces:2020-02-15 00-00-00,object,(-88.07142857)-(18.5),-88.07142857,18.5,324,7
+53,Belgium-residential,Belgium-residential:2020-02-15 00-00-00,object,(-2.571428571)-(37.21428571),-2.571428571,37.21428571,243,4
+54,Belize-retail_recreation,Belize-retail_recreation:2020-03-08 00-00-00,object,(-64.25)-(4.0),-64.25,4.0,39,372
+55,Belize-workplaces,Belize-workplaces:2020-02-15 00-00-00,object,(-86.83333333)-(5.166666667),-86.83333333,5.166666667,217,24
+56,Belize-residential,Belize-residential:2020-08-17 00-00-00,object,(10.0)-(18.0),10.0,18.0,13,394
+57,Benin-workplaces,Benin-workplaces:2020-02-15 00-00-00,object,(-66.0)-(14.4),-66.0,14.4,216,10
+58,Benin-residential,Benin-residential:2020-08-17 00-00-00,object,(1.5)-(13.66666667),1.5,13.66666667,15,392
+59,Bolivia-residential,Bolivia-residential:2020-08-17 00-00-00,object,(13.625)-(22.0),13.625,22.0,19,398
+60,Bosnia and Herzegovina-retail_recreation,Bosnia and Herzegovina-retail_recreation:2020-02-15 00-00-00,object,(-81.0)-(17.0),-81.0,17.0,69,4
+61,Bosnia and Herzegovina-grocery_pharmacy,Bosnia and Herzegovina-grocery_pharmacy:2020-02-15 00-00-00,object,(-67.0)-(48.0),-67.0,48.0,74,4
+62,Bosnia and Herzegovina-parks,Bosnia and Herzegovina-parks:2020-02-15 00-00-00,object,(-48.0)-(74.0),-48.0,74.0,107,4
+63,Bosnia and Herzegovina-transit_stations,Bosnia and Herzegovina-transit_stations:2020-02-15 00-00-00,object,(-68.0)-(13.0),-68.0,13.0,73,4
+64,Bosnia and Herzegovina-workplaces,Bosnia and Herzegovina-workplaces:2020-02-15 00-00-00,object,(-79.0)-(14.0),-79.0,14.0,65,4
+65,Bosnia and Herzegovina-residential,Bosnia and Herzegovina-residential:2020-02-15 00-00-00,object,(-10.0)-(23.0),-10.0,23.0,34,4
+66,Botswana-parks,Botswana-parks:2020-02-15 00-00-00,object,(-32.66666667)-(13.66666667),-32.66666667,13.66666667,16,400
+67,Botswana-workplaces,Botswana-workplaces:2020-02-17 00-00-00,object,(-79.0)-(11.0),-79.0,11.0,157,193
+68,Botswana-residential,Botswana-residential:2020-08-17 00-00-00,object,(4.0)-(13.0),4.0,13.0,15,392
+69,Bulgaria-residential,Bulgaria-residential:2020-08-17 00-00-00,object,(-10.65)-(0.383333333),-10.65,0.383333333,24,393
+70,Burkina Faso-retail_recreation,Burkina Faso-retail_recreation:2020-02-15 00-00-00,object,(-37.33333333)-(29.66666667),-37.33333333,29.66666667,68,331
+71,Burkina Faso-grocery_pharmacy,Burkina Faso-grocery_pharmacy:2020-02-15 00-00-00,object,(-26.0)-(72.66666667),-26.0,72.66666667,78,323
+72,Burkina Faso-transit_stations,Burkina Faso-transit_stations:2020-02-15 00-00-00,object,(-51.0)-(33.0),-51.0,33.0,68,333
+73,Burkina Faso-workplaces,Burkina Faso-workplaces:2020-02-15 00-00-00,object,(-58.0)-(21.0),-58.0,21.0,210,20
+74,Burkina Faso-residential,Burkina Faso-residential:2020-08-17 00-00-00,object,(-4.5)-(9.0),-4.5,9.0,24,386
+75,Cambodia-workplaces,Cambodia-workplaces:2020-02-15 00-00-00,object,(-64.625)-(7.55),-64.625,7.55,250,133
+76,Cambodia-residential,Cambodia-residential:2020-08-17 00-00-00,object,(5.714285714)-(9.857142857),5.714285714,9.857142857,18,392
+77,Cameroon-workplaces,Cameroon-workplaces:2020-09-23 00-00-00,object,(-55.77777778)-(-4.481481481),-55.77777778,-4.481481481,38,377
+78,Cameroon-residential,Cameroon-residential:2020-08-17 00-00-00,object,(1.545454545)-(7.0),1.545454545,7.0,25,392
+79,Canada-workplaces,Canada-workplaces:2020-02-17 00-00-00,object,(-81.1697417)-(-14.09057971),-81.1697417,-14.09057971,227,189
+80,Canada-residential,Canada-residential:2020-08-17 00-00-00,object,(-2.275362319)-(6.791139241),-2.275362319,6.791139241,23,394
+81,Cape Verde-retail_recreation,Cape Verde-retail_recreation:2020-02-23 00-00-00,object,(-68.0)-(-0.666666667),-68.0,-0.666666667,47,354
+82,Cape Verde-workplaces,Cape Verde-workplaces:2020-02-15 00-00-00,object,(-77.75)-(5.0),-77.75,5.0,152,10
+83,Cape Verde-residential,Cape Verde-residential:2020-08-17 00-00-00,object,(10.0)-(15.0),10.0,15.0,5,395
+84,Chile-parks,Chile-parks:2020-02-15 00-00-00,object,(-77.36619718)-(18.72463768),-77.36619718,18.72463768,353,50
+85,Colombia-residential,Colombia-residential:2020-08-18 00-00-00,object,(14.50892857)-(18.69724771),14.50892857,18.69724771,13,404
+86,Costa Rica-retail_recreation,Costa Rica-retail_recreation:2020-02-15 00-00-00,object,(-88.0)-(5.0),-88.0,5.0,81,4
+87,Costa Rica-grocery_pharmacy,Costa Rica-grocery_pharmacy:2020-02-15 00-00-00,object,(-71.0)-(32.0),-71.0,32.0,66,4
+88,Costa Rica-parks,Costa Rica-parks:2020-02-15 00-00-00,object,(-86.0)-(4.0),-86.0,4.0,74,4
+89,Costa Rica-transit_stations,Costa Rica-transit_stations:2020-02-15 00-00-00,object,(-91.0)-(4.0),-91.0,4.0,71,4
+90,Costa Rica-workplaces,Costa Rica-workplaces:2020-02-15 00-00-00,object,(-84.0)-(23.0),-84.0,23.0,72,4
+91,Costa Rica-residential,Costa Rica-residential:2020-02-15 00-00-00,object,(-3.0)-(40.0),-3.0,40.0,34,4
+92,C?te d'Ivoire-retail_recreation,C?te d'Ivoire-retail_recreation:2020-08-19 00-00-00,object,(-2.5)-(12.0),-2.5,12.0,19,394
+93,C?te d'Ivoire-grocery_pharmacy,C?te d'Ivoire-grocery_pharmacy:2020-08-19 00-00-00,object,(0.5)-(20.5),0.5,20.5,17,394
+94,C?te d'Ivoire-parks,C?te d'Ivoire-parks:2020-08-21 00-00-00,object,(-6.0)-(3.0),-6.0,3.0,5,412
+95,C?te d'Ivoire-transit_stations,C?te d'Ivoire-transit_stations:2020-08-19 00-00-00,object,(0.0)-(21.0),0.0,21.0,17,394
+96,C?te d'Ivoire-workplaces,C?te d'Ivoire-workplaces:2020-02-15 00-00-00,object,(-55.46153846)-(17.72727273),-55.46153846,17.72727273,306,6
+97,C?te d'Ivoire-residential,C?te d'Ivoire-residential:2020-08-17 00-00-00,object,(2.5)-(8.5),2.5,8.5,11,392
+98,Croatia-retail_recreation,Croatia-retail_recreation:2020-02-15 00-00-00,object,(-89.54545455)-(39.19047619),-89.54545455,39.19047619,206,193
+99,Croatia-grocery_pharmacy,Croatia-grocery_pharmacy:2020-02-15 00-00-00,object,(-56.13636364)-(27.13636364),-56.13636364,27.13636364,68,346
+100,Croatia-workplaces,Croatia-workplaces:2020-02-15 00-00-00,object,(-84.45454545)-(20.57142857),-84.45454545,20.57142857,329,32
+101,Croatia-residential,Croatia-residential:2020-08-17 00-00-00,object,(-6.0)-(3.736842105),-6.0,3.736842105,23,392
+102,Czechia-grocery_pharmacy,Czechia-grocery_pharmacy:2020-05-08 00-00-00,object,(-91.23076923)-(5.175824176),-91.23076923,5.175824176,7,410
+103,Czechia-workplaces,Czechia-workplaces:2020-02-17 00-00-00,object,(-86.86813187)-(16.17582418),-86.86813187,16.17582418,348,53
+104,Czechia-residential,Czechia-residential:2020-02-17 00-00-00,object,(-7.058823529)-(32.05494505),-7.058823529,32.05494505,167,238
+105,Denmark-workplaces,Denmark-workplaces:2020-02-17 00-00-00,object,(-83.21)-(2.224489796),-83.21,2.224489796,264,144
+106,Denmark-residential,Denmark-residential:2020-08-17 00-00-00,object,(0.487804878)-(3.047619048),0.487804878,3.047619048,19,398
+107,Dominican Republic-parks,Dominican Republic-parks:2020-03-22 00-00-00,object,(-69.4137931)-(-68.20689655),-69.4137931,-68.20689655,2,415
+108,Dominican Republic-workplaces,Dominican Republic-workplaces:2020-02-17 00-00-00,object,(-72.09677419)-(3.666666667),-72.09677419,3.666666667,286,91
+109,Dominican Republic-residential,Dominican Republic-residential:2020-08-17 00-00-00,object,(9.7)-(15.375),9.7,15.375,22,392
+110,Ecuador-residential,Ecuador-residential:2020-08-17 00-00-00,object,(17.02083333)-(22.82608696),17.02083333,22.82608696,18,398
+111,Egypt-retail_recreation,Egypt-retail_recreation:2020-02-15 00-00-00,object,(-67.83333333)-(8.066666667),-67.83333333,8.066666667,47,369
+112,Egypt-workplaces,Egypt-workplaces:2020-02-15 00-00-00,object,(-57.0)-(15.7),-57.0,15.7,327,29
+113,Egypt-residential,Egypt-residential:2020-08-17 00-00-00,object,(3.035714286)-(8.703703704),3.035714286,8.703703704,23,392
+114,El Salvador-parks,El Salvador-parks:2020-02-15 00-00-00,object,(-74.33333333)-(19.73333333),-74.33333333,19.73333333,307,29
+115,El Salvador-workplaces,El Salvador-workplaces:2020-02-15 00-00-00,object,(-74.2)-(13.13333333),-74.2,13.13333333,322,17
+116,El Salvador-residential,El Salvador-residential:2020-08-17 00-00-00,object,(11.83333333)-(19.5),11.83333333,19.5,21,395
+117,Estonia-retail_recreation,Estonia-retail_recreation:2020-02-15 00-00-00,object,(-62.73333333)-(22.85714286),-62.73333333,22.85714286,96,314
+118,Estonia-grocery_pharmacy,Estonia-grocery_pharmacy:2020-02-15 00-00-00,object,(-26.8)-(28.5),-26.8,28.5,87,325
+119,Estonia-transit_stations,Estonia-transit_stations:2020-04-11 00-00-00,object,(-56.0)-(30.33333333),-56.0,30.33333333,51,364
+120,Estonia-workplaces,Estonia-workplaces:2020-02-17 00-00-00,object,(-85.0)-(16.0),-85.0,16.0,269,87
+121,Estonia-residential,Estonia-residential:2020-08-17 00-00-00,object,(-7.0)-(3.2),-7.0,3.2,21,393
+122,Fiji-retail_recreation,Fiji-retail_recreation:2020-02-15 00-00-00,object,(-76.0)-(45.0),-76.0,45.0,77,23
+123,Fiji-grocery_pharmacy,Fiji-grocery_pharmacy:2020-02-15 00-00-00,object,(-73.0)-(54.0),-73.0,54.0,65,18
+124,Fiji-parks,Fiji-parks:2020-02-15 00-00-00,object,(-37.0)-(10.0),-37.0,10.0,47,10
+125,Fiji-transit_stations,Fiji-transit_stations:2020-02-15 00-00-00,object,(-85.0)-(17.0),-85.0,17.0,75,7
+126,Fiji-workplaces,Fiji-workplaces:2020-02-15 00-00-00,object,(-77.0)-(14.0),-77.0,14.0,66,7
+127,Fiji-residential,Fiji-residential:2020-02-15 00-00-00,object,(-4.0)-(37.0),-4.0,37.0,33,4
+128,Finland-workplaces,Finland-workplaces:2020-02-17 00-00-00,object,(-82.68674699)-(5.563380282),-82.68674699,5.563380282,330,81
+129,Finland-residential,Finland-residential:2020-08-17 00-00-00,object,(-4.852941176)-(2.693548387),-4.852941176,2.693548387,25,392
+130,France-retail_recreation,France-retail_recreation:2020-02-15 00-00-00,object,(-91.0)-(25.26363636),-91.0,25.26363636,335,74
+131,France-grocery_pharmacy,France-grocery_pharmacy:2020-02-15 00-00-00,object,(-88.55454545)-(43.4),-88.55454545,43.4,317,85
+132,France-parks,France-parks:2020-02-15 00-00-00,object,(-74.82727273)-(183.1727273),-74.82727273,183.1727273,301,113
+133,France-transit_stations,France-transit_stations:2020-02-21 00-00-00,object,(-69.97272727)-(11.49090909),-69.97272727,11.49090909,107,310
+134,France-workplaces,France-workplaces:2020-02-15 00-00-00,object,(-87.88181818)-(21.69090909),-87.88181818,21.69090909,393,13
+135,France-residential,France-residential:2020-02-17 00-00-00,object,(-3.324074074)-(30.67272727),-3.324074074,30.67272727,276,113
+136,Gabon-retail_recreation,Gabon-retail_recreation:2020-02-15 00-00-00,object,(-51.66666667)-(1.333333333),-51.66666667,1.333333333,70,309
+137,Gabon-grocery_pharmacy,Gabon-grocery_pharmacy:2020-02-15 00-00-00,object,(-39.33333333)-(3.333333333),-39.33333333,3.333333333,62,309
+138,Gabon-workplaces,Gabon-workplaces:2020-02-15 00-00-00,object,(-67.75)-(8.0),-67.75,8.0,178,7
+139,Gabon-residential,Gabon-residential:2020-08-17 00-00-00,object,(8.5)-(24.0),8.5,24.0,11,392
+140,Georgia-retail_recreation,Georgia-retail_recreation:2020-02-15 00-00-00,object,(-87.5)-(12.5),-87.5,12.5,139,49
+141,Georgia-grocery_pharmacy,Georgia-grocery_pharmacy:2020-02-15 00-00-00,object,(-72.0)-(30.0),-72.0,30.0,117,49
+142,Georgia-parks,Georgia-parks:2020-02-15 00-00-00,object,(-67.5)-(45.0),-67.5,45.0,154,49
+143,Georgia-transit_stations,Georgia-transit_stations:2020-02-15 00-00-00,object,(-79.5)-(8.0),-79.5,8.0,136,49
+144,Georgia-workplaces,Georgia-workplaces:2020-02-15 00-00-00,object,(-84.0)-(10.5),-84.0,10.5,134,49
+145,Georgia-residential,Georgia-residential:2020-02-15 00-00-00,object,(-8.5)-(34.5),-8.5,34.5,73,49
+146,Germany-retail_recreation,Germany-retail_recreation:2020-02-15 00-00-00,object,(-87.41176471)-(20.76470588),-87.41176471,20.76470588,350,4
+147,Germany-grocery_pharmacy,Germany-grocery_pharmacy:2020-02-15 00-00-00,object,(-94.05882353)-(56.11764706),-94.05882353,56.11764706,278,10
+148,Germany-parks,Germany-parks:2020-02-15 00-00-00,object,(-43.76470588)-(192.4705882),-43.76470588,192.4705882,315,69
+149,Germany-transit_stations,Germany-transit_stations:2020-02-15 00-00-00,object,(-74.47058824)-(10.52941176),-74.47058824,10.52941176,341,7
+150,Germany-workplaces,Germany-workplaces:2020-02-15 00-00-00,object,(-87.29411765)-(17.58823529),-87.29411765,17.58823529,312,4
+151,Germany-residential,Germany-residential:2020-02-15 00-00-00,object,(-3.941176471)-(28.58823529),-3.941176471,28.58823529,232,4
+152,Ghana-retail_recreation,Ghana-retail_recreation:2020-02-15 00-00-00,object,(-62.33333333)-(32.33333333),-62.33333333,32.33333333,147,4
+153,Ghana-grocery_pharmacy,Ghana-grocery_pharmacy:2020-02-15 00-00-00,object,(-56.66666667)-(63.66666667),-56.66666667,63.66666667,177,4
+154,Ghana-parks,Ghana-parks:2020-02-15 00-00-00,object,(-53.0)-(7.666666667),-53.0,7.666666667,124,29
+155,Ghana-transit_stations,Ghana-transit_stations:2020-02-15 00-00-00,object,(-67.33333333)-(32.0),-67.33333333,32.0,161,4
+156,Ghana-workplaces,Ghana-workplaces:2020-02-15 00-00-00,object,(-63.33333333)-(9.333333333),-63.33333333,9.333333333,120,4
+157,Ghana-residential,Ghana-residential:2020-02-15 00-00-00,object,(-1.333333333)-(36.0),-1.333333333,36.0,78,4
+158,Greece-retail_recreation,Greece-retail_recreation:2020-02-15 00-00-00,object,(-85.25)-(71.875),-85.25,71.875,306,26
+159,Greece-grocery_pharmacy,Greece-grocery_pharmacy:2020-02-15 00-00-00,object,(-84.0)-(137.125),-84.0,137.125,265,30
+160,Greece-parks,Greece-parks:2020-02-15 00-00-00,object,(-69.625)-(358.875),-69.625,358.875,331,33
+161,Greece-transit_stations,Greece-transit_stations:2020-02-15 00-00-00,object,(-82.625)-(125.25),-82.625,125.25,304,29
+162,Greece-workplaces,Greece-workplaces:2020-02-15 00-00-00,object,(-81.5)-(13.0),-81.5,13.0,270,4
+163,Greece-residential,Greece-residential:2020-02-15 00-00-00,object,(-8.125)-(30.625),-8.125,30.625,184,4
+164,Guatemala-residential,Guatemala-residential:2020-08-17 00-00-00,object,(15.37931034)-(18.2962963),15.37931034,18.2962963,13,403
+165,Guinea-Bissau-retail_recreation,Guinea-Bissau-retail_recreation:2020-02-15 00-00-00,object,(-64.0)-(9.0),-64.0,9.0,34,364
+166,Guinea-Bissau-grocery_pharmacy,Guinea-Bissau-grocery_pharmacy:2020-02-18 00-00-00,object,(-51.0)-(8.0),-51.0,8.0,14,396
+167,Guinea-Bissau-parks,Guinea-Bissau-parks:2020-02-21 00-00-00,object,(-40.0)-(-2.0),-40.0,-2.0,35,222
+168,Guinea-Bissau-workplaces,Guinea-Bissau-workplaces:2020-02-15 00-00-00,object,(-69.0)-(8.0),-69.0,8.0,65,29
+169,Haiti-parks,Haiti-parks:2020-02-16 00-00-00,object,(-24.16666667)-(0.5),-24.16666667,0.5,12,405
+170,Haiti-workplaces,Haiti-workplaces:2020-02-15 00-00-00,object,(-65.3)-(5.555555556),-65.3,5.555555556,285,10
+171,Haiti-residential,Haiti-residential:2020-08-17 00-00-00,object,(0.0)-(13.33333333),0.0,13.33333333,16,392
+172,Honduras-retail_recreation,Honduras-retail_recreation:2020-08-23 00-00-00,object,(-65.4)-(-58.0),-65.4,-58.0,3,414
+173,Honduras-grocery_pharmacy,Honduras-grocery_pharmacy:2020-08-23 00-00-00,object,(-51.4)-(-43.0),-51.4,-43.0,3,414
+174,Honduras-transit_stations,Honduras-transit_stations:2020-08-23 00-00-00,object,(-73.6)-(-66.0),-73.6,-66.0,3,414
+175,Honduras-workplaces,Honduras-workplaces:2020-08-23 00-00-00,object,(-26.6)-(-23.0),-26.6,-23.0,3,414
+176,Honduras-residential,Honduras-residential:2020-08-17 00-00-00,object,(10.35714286)-(16.77777778),10.35714286,16.77777778,23,392
+177,Hong Kong-retail_recreation,Hong Kong-retail_recreation:2020-02-15 00-00-00,object,(-55.0)-(-7.0),-55.0,-7.0,38,4
+178,Hong Kong-grocery_pharmacy,Hong Kong-grocery_pharmacy:2020-02-15 00-00-00,object,(-26.0)-(69.0),-26.0,69.0,60,4
+179,Hong Kong-parks,Hong Kong-parks:2020-02-15 00-00-00,object,(-73.0)-(21.0),-73.0,21.0,57,4
+180,Hong Kong-transit_stations,Hong Kong-transit_stations:2020-02-15 00-00-00,object,(-69.0)-(-5.0),-69.0,-5.0,41,4
+181,Hong Kong-workplaces,Hong Kong-workplaces:2020-02-15 00-00-00,object,(-78.0)-(8.0),-78.0,8.0,58,4
+182,Hong Kong-residential,Hong Kong-residential:2020-02-15 00-00-00,object,(3.0)-(37.0),3.0,37.0,26,4
+183,Hungary-retail_recreation,Hungary-retail_recreation:2020-02-15 00-00-00,object,(-86.52380952)-(33.14285714),-86.52380952,33.14285714,310,65
+184,Hungary-grocery_pharmacy,Hungary-grocery_pharmacy:2020-02-15 00-00-00,object,(-90.71428571)-(48.61904762),-90.71428571,48.61904762,304,30
+185,Hungary-transit_stations,Hungary-transit_stations:2020-02-15 00-00-00,object,(-69.42857143)-(36.9047619),-69.42857143,36.9047619,318,32
+186,Hungary-workplaces,Hungary-workplaces:2020-02-15 00-00-00,object,(-86.9047619)-(38.0),-86.9047619,38.0,330,10
+187,Hungary-residential,Hungary-residential:2020-02-17 00-00-00,object,(-6.428571429)-(29.42857143),-6.428571429,29.42857143,228,68
+188,India-workplaces,India-workplaces:2020-12-29 00-00-00,object,(-34.37014925)-(-9.888059701),-34.37014925,-9.888059701,2,415
+189,India-residential,India-residential:2020-08-17 00-00-00,object,(9.162939297)-(10.8448),9.162939297,10.8448,17,400
+190,Indonesia-retail_recreation,Indonesia-retail_recreation:2020-02-15 00-00-00,object,(-50.08571429)-(2.6),-50.08571429,2.6,322,29
+191,Indonesia-grocery_pharmacy,Indonesia-grocery_pharmacy:2020-02-15 00-00-00,object,(-32.17142857)-(28.11428571),-32.17142857,28.11428571,320,29
+192,Indonesia-parks,Indonesia-parks:2020-02-15 00-00-00,object,(-51.91428571)-(24.22857143),-51.91428571,24.22857143,339,29
+193,Indonesia-transit_stations,Indonesia-transit_stations:2020-02-16 00-00-00,object,(-67.57142857)-(1.6),-67.57142857,1.6,229,166
+194,Indonesia-workplaces,Indonesia-workplaces:2020-02-15 00-00-00,object,(-65.08571429)-(7.342857143),-65.08571429,7.342857143,336,4
+195,Indonesia-residential,Indonesia-residential:2020-02-15 00-00-00,object,(-0.857142857)-(21.22857143),-0.857142857,21.22857143,282,4
+196,Iraq-retail_recreation,Iraq-retail_recreation:2020-02-15 00-00-00,object,(-69.0)-(33.0),-69.0,33.0,94,4
+197,Iraq-grocery_pharmacy,Iraq-grocery_pharmacy:2020-02-15 00-00-00,object,(-48.0)-(88.0),-48.0,88.0,110,4
+198,Iraq-parks,Iraq-parks:2020-02-15 00-00-00,object,(-51.0)-(24.0),-51.0,24.0,71,4
+199,Iraq-transit_stations,Iraq-transit_stations:2020-02-15 00-00-00,object,(-64.0)-(34.0),-64.0,34.0,91,4
+200,Iraq-workplaces,Iraq-workplaces:2020-02-15 00-00-00,object,(-57.0)-(14.0),-57.0,14.0,69,4
+201,Iraq-residential,Iraq-residential:2020-02-15 00-00-00,object,(-6.0)-(23.0),-6.0,23.0,30,4
+202,Ireland-retail_recreation,Ireland-retail_recreation:2020-02-15 00-00-00,object,(-83.0)-(9.62962963),-83.0,9.62962963,173,235
+203,Ireland-grocery_pharmacy,Ireland-grocery_pharmacy:2020-02-15 00-00-00,object,(-93.07407407)-(33.92592593),-93.07407407,33.92592593,145,263
+204,Ireland-workplaces,Ireland-workplaces:2020-02-15 00-00-00,object,(-85.74074074)-(3.407407407),-85.74074074,3.407407407,325,57
+205,Ireland-residential,Ireland-residential:2020-08-17 00-00-00,object,(1.714285714)-(11.125),1.714285714,11.125,25,392
+206,Israel-retail_recreation,Israel-retail_recreation:2020-02-15 00-00-00,object,(-94.7)-(38.95),-94.7,38.95,344,29
+207,Israel-grocery_pharmacy,Israel-grocery_pharmacy:2020-02-18 00-00-00,object,(-22.4)-(24.2),-22.4,24.2,69,344
+208,Israel-parks,Israel-parks:2020-02-15 00-00-00,object,(-80.3)-(145.3),-80.3,145.3,355,34
+209,Israel-transit_stations,Israel-transit_stations:2020-02-15 00-00-00,object,(-81.65)-(14.3),-81.65,14.3,340,25
+210,Israel-workplaces,Israel-workplaces:2020-02-15 00-00-00,object,(-89.8)-(6.65),-89.8,6.65,333,7
+211,Israel-residential,Israel-residential:2020-02-16 00-00-00,object,(-2.0)-(31.9),-2.0,31.9,240,80
+212,Italy-retail_recreation,Italy-retail_recreation:2020-02-15 00-00-00,object,(-95.91338583)-(25.84251969),-95.91338583,25.84251969,383,29
+213,Italy-grocery_pharmacy,Italy-grocery_pharmacy:2020-02-15 00-00-00,object,(-94.18110236)-(50.77165354),-94.18110236,50.77165354,369,31
+214,Italy-parks,Italy-parks:2020-02-15 00-00-00,object,(-86.31496063)-(117.7322835),-86.31496063,117.7322835,301,111
+215,Italy-transit_stations,Italy-transit_stations:2020-02-15 00-00-00,object,(-76.20472441)-(7.496062992),-76.20472441,7.496062992,61,356
+216,Italy-workplaces,Italy-workplaces:2020-02-15 00-00-00,object,(-88.67716535)-(12.32283465),-88.67716535,12.32283465,390,10
+217,Italy-residential,Italy-residential:2020-02-15 00-00-00,object,(-5.714285714)-(34.7007874),-5.714285714,34.7007874,350,43
+218,Jamaica-transit_stations,Jamaica-transit_stations:2020-08-23 00-00-00,object,(-33.66666667)-(-29.33333333),-33.66666667,-29.33333333,3,414
+219,Jamaica-workplaces,Jamaica-workplaces:2020-02-17 00-00-00,object,(-84.2)-(3.933333333),-84.2,3.933333333,191,138
+220,Jamaica-residential,Jamaica-residential:2020-08-17 00-00-00,object,(7.333333333)-(18.2),7.333333333,18.2,24,392
+221,Japan-retail_recreation,Japan-retail_recreation:2020-02-15 00-00-00,object,(-40.85416667)-(32.16666667),-40.85416667,32.16666667,345,4
+222,Japan-grocery_pharmacy,Japan-grocery_pharmacy:2020-02-15 00-00-00,object,(-39.35416667)-(18.95833333),-39.35416667,18.95833333,308,4
+223,Japan-parks,Japan-parks:2020-02-15 00-00-00,object,(-50.58333333)-(113.0625),-50.58333333,113.0625,371,29
+224,Japan-transit_stations,Japan-transit_stations:2020-02-15 00-00-00,object,(-62.41666667)-(12.02083333),-62.41666667,12.02083333,366,19
+225,Japan-workplaces,Japan-workplaces:2020-02-15 00-00-00,object,(-82.1875)-(4.583333333),-82.1875,4.583333333,319,4
+226,Japan-residential,Japan-residential:2020-02-15 00-00-00,object,(-0.25)-(31.20833333),-0.25,31.20833333,267,4
+227,Jordan-retail_recreation,Jordan-retail_recreation:2020-08-28 00-00-00,object,(-71.0)-(-70.0),-71.0,-70.0,2,415
+228,Jordan-grocery_pharmacy,Jordan-grocery_pharmacy:2020-08-28 00-00-00,object,(-64.4)-(-63.6),-64.4,-63.6,2,415
+229,Jordan-workplaces,Jordan-workplaces:2020-02-15 00-00-00,object,(-78.21428571)-(9.214285714),-78.21428571,9.214285714,305,23
+230,Jordan-residential,Jordan-residential:2020-08-17 00-00-00,object,(0.666666667)-(17.8),0.666666667,17.8,20,392
+231,Kazakhstan-retail_recreation,Kazakhstan-retail_recreation:2020-02-15 00-00-00,object,(-69.0)-(28.0),-69.0,28.0,78,4
+232,Kazakhstan-grocery_pharmacy,Kazakhstan-grocery_pharmacy:2020-02-15 00-00-00,object,(-53.0)-(28.0),-53.0,28.0,66,4
+233,Kazakhstan-parks,Kazakhstan-parks:2020-02-15 00-00-00,object,(-39.0)-(36.0),-39.0,36.0,72,4
+234,Kazakhstan-transit_stations,Kazakhstan-transit_stations:2020-02-15 00-00-00,object,(-53.0)-(56.0),-53.0,56.0,91,4
+235,Kazakhstan-workplaces,Kazakhstan-workplaces:2020-02-15 00-00-00,object,(-80.0)-(74.0),-80.0,74.0,71,4
+236,Kazakhstan-residential,Kazakhstan-residential:2020-02-15 00-00-00,object,(-6.0)-(22.0),-6.0,22.0,29,4
+237,Kenya-workplaces,Kenya-workplaces:2020-02-17 00-00-00,object,(-59.71428571)-(10.53658537),-59.71428571,10.53658537,254,142
+238,Kenya-residential,Kenya-residential:2020-08-17 00-00-00,object,(9.0)-(13.78571429),9.0,13.78571429,24,392
+239,Kuwait-retail_recreation,Kuwait-retail_recreation:2020-02-15 00-00-00,object,(-89.625)-(6.75),-89.625,6.75,237,29
+240,Kuwait-grocery_pharmacy,Kuwait-grocery_pharmacy:2020-02-15 00-00-00,object,(-81.875)-(13.625),-81.875,13.625,228,29
+241,Kuwait-parks,Kuwait-parks:2020-02-15 00-00-00,object,(-82.25)-(19.375),-82.25,19.375,257,29
+242,Kuwait-transit_stations,Kuwait-transit_stations:2020-02-15 00-00-00,object,(-81.0)-(11.5),-81.0,11.5,277,29
+243,Kuwait-workplaces,Kuwait-workplaces:2020-02-15 00-00-00,object,(-80.625)-(8.125),-80.625,8.125,243,10
+244,Kuwait-residential,Kuwait-residential:2020-02-15 00-00-00,object,(-1.5)-(33.625),-1.5,33.625,160,48
+245,Kyrgyzstan-retail_recreation,Kyrgyzstan-retail_recreation:2020-03-28 00-00-00,object,(-65.125)-(-3.5),-65.125,-3.5,74,330
+246,Kyrgyzstan-workplaces,Kyrgyzstan-workplaces:2020-02-15 00-00-00,object,(-73.125)-(18.25),-73.125,18.25,261,11
+247,Kyrgyzstan-residential,Kyrgyzstan-residential:2020-08-17 00-00-00,object,(-8.8)-(-1.2),-8.8,-1.2,18,392
+248,Laos-retail_recreation,Laos-retail_recreation:2020-02-15 00-00-00,object,(-62.0)-(20.0),-62.0,20.0,59,4
+249,Laos-grocery_pharmacy,Laos-grocery_pharmacy:2020-02-15 00-00-00,object,(-42.0)-(31.0),-42.0,31.0,49,4
+250,Laos-parks,Laos-parks:2020-02-15 00-00-00,object,(-43.0)-(14.0),-43.0,14.0,53,4
+251,Laos-transit_stations,Laos-transit_stations:2020-02-15 00-00-00,object,(-72.0)-(-3.0),-72.0,-3.0,56,4
+252,Laos-workplaces,Laos-workplaces:2020-02-15 00-00-00,object,(-64.0)-(21.0),-64.0,21.0,66,4
+253,Laos-residential,Laos-residential:2020-02-15 00-00-00,object,(-2.0)-(22.0),-2.0,22.0,24,4
+254,Latvia-retail_recreation,Latvia-retail_recreation:2020-03-01 00-00-00,object,(-53.57142857)-(23.23076923),-53.57142857,23.23076923,85,331
+255,Latvia-grocery_pharmacy,Latvia-grocery_pharmacy:2020-07-26 00-00-00,object,(-4.0)-(22.83333333),-4.0,22.83333333,7,410
+256,Latvia-transit_stations,Latvia-transit_stations:2020-08-22 00-00-00,object,(-12.0)-(5.0),-12.0,5.0,5,411
+257,Latvia-workplaces,Latvia-workplaces:2020-03-09 00-00-00,object,(-89.21428571)-(2.0),-89.21428571,2.0,238,170
+258,Latvia-residential,Latvia-residential:2020-08-17 00-00-00,object,(-8.5)-(2.75),-8.5,2.75,20,392
+259,Lebanon-workplaces,Lebanon-workplaces:2020-02-15 00-00-00,object,(-72.46875)-(7.965517241),-72.46875,7.965517241,364,39
+260,Lebanon-residential,Lebanon-residential:2020-08-17 00-00-00,object,(-1.473684211)-(8.35),-1.473684211,8.35,23,392
+261,Libya-workplaces,Libya-workplaces:2020-02-15 00-00-00,object,(-44.54545455)-(17.83333333),-44.54545455,17.83333333,316,29
+262,Libya-residential,Libya-residential:2020-08-17 00-00-00,object,(-9.0)-(6.666666667),-9.0,6.666666667,18,392
+263,Liechtenstein-retail_recreation,Liechtenstein-retail_recreation:2020-02-15 00-00-00,object,(-90.0)-(60.0),-90.0,60.0,54,330
+264,Liechtenstein-grocery_pharmacy,Liechtenstein-grocery_pharmacy:2020-02-15 00-00-00,object,(-42.0)-(28.0),-42.0,28.0,24,368
+265,Liechtenstein-transit_stations,Liechtenstein-transit_stations:2020-02-17 00-00-00,object,(-68.0)-(37.0),-68.0,37.0,64,35
+266,Liechtenstein-workplaces,Liechtenstein-workplaces:2020-02-17 00-00-00,object,(-90.0)-(3.0),-90.0,3.0,62,141
+267,Lithuania-workplaces,Lithuania-workplaces:2020-02-18 00-00-00,object,(-86.58208955)-(4.047619048),-86.58208955,4.047619048,231,176
+268,Lithuania-residential,Lithuania-residential:2020-08-17 00-00-00,object,(-8.461538462)-(2.305555556),-8.461538462,2.305555556,24,393
+269,Luxembourg-retail_recreation,Luxembourg-retail_recreation:2020-02-15 00-00-00,object,(-94.0)-(2.0),-94.0,2.0,90,4
+270,Luxembourg-grocery_pharmacy,Luxembourg-grocery_pharmacy:2020-02-15 00-00-00,object,(-95.0)-(51.0),-95.0,51.0,81,6
+271,Luxembourg-parks,Luxembourg-parks:2020-02-15 00-00-00,object,(-70.0)-(204.0),-70.0,204.0,160,29
+272,Luxembourg-transit_stations,Luxembourg-transit_stations:2020-02-15 00-00-00,object,(-85.0)-(15.0),-85.0,15.0,89,4
+273,Luxembourg-workplaces,Luxembourg-workplaces:2020-02-15 00-00-00,object,(-92.0)-(9.0),-92.0,9.0,88,7
+274,Luxembourg-residential,Luxembourg-residential:2020-02-15 00-00-00,object,(-3.0)-(44.0),-3.0,44.0,45,6
+275,Malaysia-retail_recreation,Malaysia-retail_recreation:2020-02-15 00-00-00,object,(-83.0)-(5.411764706),-83.0,5.411764706,322,29
+276,Malaysia-grocery_pharmacy,Malaysia-grocery_pharmacy:2020-02-15 00-00-00,object,(-62.35294118)-(33.82352941),-62.35294118,33.82352941,288,29
+277,Malaysia-parks,Malaysia-parks:2020-02-15 00-00-00,object,(-69.0)-(46.0),-69.0,46.0,339,29
+278,Malaysia-transit_stations,Malaysia-transit_stations:2020-02-15 00-00-00,object,(-85.41176471)-(18.70588235),-85.41176471,18.70588235,323,29
+279,Malaysia-workplaces,Malaysia-workplaces:2020-02-15 00-00-00,object,(-68.23529412)-(5.0),-68.23529412,5.0,298,12
+280,Malaysia-residential,Malaysia-residential:2020-02-15 00-00-00,object,(-1.176470588)-(37.23529412),-1.176470588,37.23529412,242,53
+281,Mali-retail_recreation,Mali-retail_recreation:2020-02-15 00-00-00,object,(-36.5)-(8.5),-36.5,8.5,78,10
+282,Mali-grocery_pharmacy,Mali-grocery_pharmacy:2020-02-15 00-00-00,object,(-33.5)-(42.5),-33.5,42.5,109,4
+283,Mali-parks,Mali-parks:2020-02-15 00-00-00,object,(-37.0)-(142.0),-37.0,142.0,173,29
+284,Mali-transit_stations,Mali-transit_stations:2020-02-15 00-00-00,object,(-62.5)-(14.0),-62.5,14.0,111,29
+285,Mali-workplaces,Mali-workplaces:2020-02-15 00-00-00,object,(-71.0)-(24.0),-71.0,24.0,83,4
+286,Mali-residential,Mali-residential:2020-02-15 00-00-00,object,(-11.0)-(21.0),-11.0,21.0,55,4
+287,Malta-retail_recreation,Malta-retail_recreation:2020-02-15 00-00-00,object,(-80.0)-(16.0),-80.0,16.0,89,4
+288,Malta-grocery_pharmacy,Malta-grocery_pharmacy:2020-02-15 00-00-00,object,(-60.0)-(37.0),-60.0,37.0,62,4
+289,Malta-parks,Malta-parks:2020-02-15 00-00-00,object,(-69.0)-(115.0),-69.0,115.0,129,20
+290,Malta-transit_stations,Malta-transit_stations:2020-02-15 00-00-00,object,(-65.0)-(14.0),-65.0,14.0,72,4
+291,Malta-workplaces,Malta-workplaces:2020-02-15 00-00-00,object,(-84.0)-(4.0),-84.0,4.0,74,4
+292,Malta-residential,Malta-residential:2020-02-15 00-00-00,object,(-3.0)-(37.0),-3.0,37.0,36,4
+293,Mauritius-retail_recreation,Mauritius-retail_recreation:2020-02-15 00-00-00,object,(-4.3)-(20.6),-4.3,20.6,10,407
+294,Mauritius-grocery_pharmacy,Mauritius-grocery_pharmacy:2020-02-15 00-00-00,object,(-0.9)-(13.6),-0.9,13.6,5,412
+295,Mauritius-workplaces,Mauritius-workplaces:2020-02-15 00-00-00,object,(-89.09090909)-(34.3),-89.09090909,34.3,276,94
+296,Mauritius-residential,Mauritius-residential:2020-08-17 00-00-00,object,(1.0)-(6.111111111),1.0,6.111111111,17,392
+297,Mexico-retail_recreation,Mexico-retail_recreation:2020-02-15 00-00-00,object,(-70.93939394)-(6.393939394),-70.93939394,6.393939394,347,4
+298,Mexico-grocery_pharmacy,Mexico-grocery_pharmacy:2020-02-15 00-00-00,object,(-37.39393939)-(31.6969697),-37.39393939,31.6969697,348,4
+299,Mexico-parks,Mexico-parks:2020-02-15 00-00-00,object,(-60.75757576)-(9.454545455),-60.75757576,9.454545455,333,4
+300,Mexico-transit_stations,Mexico-transit_stations:2020-02-15 00-00-00,object,(-68.63636364)-(9.121212121),-68.63636364,9.121212121,270,127
+301,Mexico-workplaces,Mexico-workplaces:2020-02-15 00-00-00,object,(-70.63636364)-(12.57575758),-70.63636364,12.57575758,354,4
+302,Mexico-residential,Mexico-residential:2020-02-15 00-00-00,object,(-2.212121212)-(28.54545455),-2.212121212,28.54545455,296,4
+303,Moldova-retail_recreation,Moldova-retail_recreation:2020-02-15 00-00-00,object,(-76.0)-(18.0),-76.0,18.0,76,4
+304,Moldova-grocery_pharmacy,Moldova-grocery_pharmacy:2020-02-15 00-00-00,object,(-72.0)-(43.0),-72.0,43.0,64,4
+305,Moldova-parks,Moldova-parks:2020-02-15 00-00-00,object,(-55.0)-(37.0),-55.0,37.0,84,4
+306,Moldova-transit_stations,Moldova-transit_stations:2020-02-15 00-00-00,object,(-76.0)-(13.0),-76.0,13.0,74,4
+307,Moldova-workplaces,Moldova-workplaces:2020-02-15 00-00-00,object,(-85.0)-(16.0),-85.0,16.0,74,4
+308,Moldova-residential,Moldova-residential:2020-02-15 00-00-00,object,(-9.0)-(23.0),-9.0,23.0,32,4
+309,Mongolia-retail_recreation,Mongolia-retail_recreation:2020-02-15 00-00-00,object,(-85.0)-(62.5),-85.0,62.5,175,60
+310,Mongolia-grocery_pharmacy,Mongolia-grocery_pharmacy:2020-02-15 00-00-00,object,(-66.5)-(124.0),-66.5,124.0,181,60
+311,Mongolia-parks,Mongolia-parks:2020-02-15 00-00-00,object,(-72.5)-(171.0),-72.5,171.0,213,61
+312,Mongolia-transit_stations,Mongolia-transit_stations:2020-02-15 00-00-00,object,(-79.5)-(93.5),-79.5,93.5,198,35
+313,Mongolia-workplaces,Mongolia-workplaces:2020-02-15 00-00-00,object,(-76.75)-(48.5),-76.75,48.5,177,4
+314,Mongolia-residential,Mongolia-residential:2020-02-15 00-00-00,object,(-16.0)-(40.5),-16.0,40.5,91,35
+315,Morocco-retail_recreation,Morocco-retail_recreation:2020-02-15 00-00-00,object,(-92.75)-(6.25),-92.75,6.25,167,4
+316,Morocco-grocery_pharmacy,Morocco-grocery_pharmacy:2020-02-15 00-00-00,object,(-83.25)-(47.5),-83.25,47.5,261,4
+317,Morocco-parks,Morocco-parks:2020-02-15 00-00-00,object,(-86.75)-(10.5),-86.75,10.5,183,4
+318,Morocco-transit_stations,Morocco-transit_stations:2020-02-15 00-00-00,object,(-83.0)-(3.0),-83.0,3.0,223,4
+319,Morocco-workplaces,Morocco-workplaces:2020-02-15 00-00-00,object,(-78.5)-(8.75),-78.5,8.75,198,4
+320,Morocco-residential,Morocco-residential:2020-02-15 00-00-00,object,(-1.0)-(33.75),-1.0,33.75,105,4
+321,Mozambique-workplaces,Mozambique-workplaces:2020-02-17 00-00-00,object,(-75.54166667)-(26.38095238),-75.54166667,26.38095238,280,118
+322,Mozambique-residential,Mozambique-residential:2020-08-17 00-00-00,object,(2.0)-(7.2),2.0,7.2,17,394
+323,Myanmar (Burma)-retail_recreation,Myanmar (Burma)-retail_recreation:2020-02-15 00-00-00,object,(-88.33333333)-(4.333333333),-88.33333333,4.333333333,190,4
+324,Myanmar (Burma)-grocery_pharmacy,Myanmar (Burma)-grocery_pharmacy:2020-02-15 00-00-00,object,(-85.0)-(14.33333333),-85.0,14.33333333,189,4
+325,Myanmar (Burma)-parks,Myanmar (Burma)-parks:2020-02-15 00-00-00,object,(-82.33333333)-(4.666666667),-82.33333333,4.666666667,165,29
+326,Myanmar (Burma)-transit_stations,Myanmar (Burma)-transit_stations:2020-02-15 00-00-00,object,(-90.33333333)-(5.0),-90.33333333,5.0,190,14
+327,Myanmar (Burma)-workplaces,Myanmar (Burma)-workplaces:2020-02-15 00-00-00,object,(-83.66666667)-(11.66666667),-83.66666667,11.66666667,196,4
+328,Myanmar (Burma)-residential,Myanmar (Burma)-residential:2020-02-15 00-00-00,object,(-5.0)-(35.66666667),-5.0,35.66666667,99,4
+329,Namibia-retail_recreation,Namibia-retail_recreation:2020-02-16 00-00-00,object,(-40.66666667)-(20.66666667),-40.66666667,20.66666667,32,381
+330,Namibia-grocery_pharmacy,Namibia-grocery_pharmacy:2020-02-16 00-00-00,object,(-25.66666667)-(21.66666667),-25.66666667,21.66666667,34,381
+331,Namibia-parks,Namibia-parks:2020-02-23 00-00-00,object,(-30.66666667)-(3.333333333),-30.66666667,3.333333333,17,399
+332,Namibia-workplaces,Namibia-workplaces:2020-02-15 00-00-00,object,(-78.54545455)-(14.22222222),-78.54545455,14.22222222,265,25
+333,Namibia-residential,Namibia-residential:2020-08-17 00-00-00,object,(7.0)-(15.66666667),7.0,15.66666667,15,393
+334,Nepal-retail_recreation,Nepal-retail_recreation:2020-02-15 00-00-00,object,(-79.0)-(7.0),-79.0,7.0,82,4
+335,Nepal-grocery_pharmacy,Nepal-grocery_pharmacy:2020-02-15 00-00-00,object,(-70.0)-(51.0),-70.0,51.0,111,4
+336,Nepal-parks,Nepal-parks:2020-02-15 00-00-00,object,(-57.0)-(39.0),-57.0,39.0,84,4
+337,Nepal-transit_stations,Nepal-transit_stations:2020-02-15 00-00-00,object,(-74.0)-(41.0),-74.0,41.0,105,4
+338,Nepal-workplaces,Nepal-workplaces:2020-02-15 00-00-00,object,(-74.0)-(12.0),-74.0,12.0,85,4
+339,Nepal-residential,Nepal-residential:2020-02-15 00-00-00,object,(-2.0)-(28.0),-2.0,28.0,31,4
+340,Netherlands-workplaces,Netherlands-workplaces:2020-02-17 00-00-00,object,(-85.06906077)-(2.752777778),-85.06906077,2.752777778,246,165
+341,Netherlands-residential,Netherlands-residential:2020-08-21 00-00-00,object,(3.599099099)-(5.295238095),3.599099099,5.295238095,3,414
+342,New Zealand-retail_recreation,New Zealand-retail_recreation:2020-02-15 00-00-00,object,(-94.05882353)-(33.23529412),-94.05882353,33.23529412,214,128
+343,New Zealand-grocery_pharmacy,New Zealand-grocery_pharmacy:2020-02-15 00-00-00,object,(-89.70588235)-(26.11764706),-89.70588235,26.11764706,70,342
+344,New Zealand-parks,New Zealand-parks:2020-02-15 00-00-00,object,(-82.82352941)-(32.58823529),-82.82352941,32.58823529,220,181
+345,New Zealand-workplaces,New Zealand-workplaces:2020-02-15 00-00-00,object,(-84.94117647)-(22.29411765),-84.94117647,22.29411765,267,78
+346,New Zealand-residential,New Zealand-residential:2020-08-17 00-00-00,object,(2.846153846)-(8.923076923),2.846153846,8.923076923,21,395
+347,Nicaragua-retail_recreation,Nicaragua-retail_recreation:2020-08-22 00-00-00,object,(-24.33333333)-(-12.66666667),-24.33333333,-12.66666667,5,412
+348,Nicaragua-grocery_pharmacy,Nicaragua-grocery_pharmacy:2020-08-22 00-00-00,object,(-12.0)-(-2.0),-12.0,-2.0,4,412
+349,Nicaragua-parks,Nicaragua-parks:2020-08-22 00-00-00,object,(-30.0)-(-13.66666667),-30.0,-13.66666667,5,412
+350,Nicaragua-transit_stations,Nicaragua-transit_stations:2020-08-22 00-00-00,object,(-30.33333333)-(-20.33333333),-30.33333333,-20.33333333,4,412
+351,Nicaragua-workplaces,Nicaragua-workplaces:2020-02-15 00-00-00,object,(-67.05555556)-(18.35294118),-67.05555556,18.35294118,329,24
+352,Nicaragua-residential,Nicaragua-residential:2020-08-17 00-00-00,object,(6.0)-(11.83333333),6.0,11.83333333,17,392
+353,Niger-retail_recreation,Niger-retail_recreation:2021-02-27 00-00-00,object,(-90.0)-(-87.33333333),-90.0,-87.33333333,2,415
+354,Niger-grocery_pharmacy,Niger-grocery_pharmacy:2021-02-27 00-00-00,object,(-92.33333333)-(-92.0),-92.33333333,-92.0,2,415
+355,Niger-transit_stations,Niger-transit_stations:2021-02-27 00-00-00,object,(-82.0)-(-76.33333333),-82.0,-76.33333333,2,415
+356,Niger-workplaces,Niger-workplaces:2020-02-15 00-00-00,object,(-86.0)-(13.75),-86.0,13.75,277,7
+357,Niger-residential,Niger-residential:2020-08-17 00-00-00,object,(-4.666666667)-(9.0),-4.666666667,9.0,19,392
+358,Nigeria-residential,Nigeria-residential:2020-08-21 00-00-00,object,(8.448275862)-(10.94117647),8.448275862,10.94117647,4,413
+359,North Macedonia-retail_recreation,North Macedonia-retail_recreation:2020-02-15 00-00-00,object,(-95.0)-(17.0),-95.0,17.0,85,4
+360,North Macedonia-grocery_pharmacy,North Macedonia-grocery_pharmacy:2020-02-15 00-00-00,object,(-95.0)-(37.0),-95.0,37.0,64,4
+361,North Macedonia-parks,North Macedonia-parks:2020-02-15 00-00-00,object,(-79.0)-(123.0),-79.0,123.0,135,20
+362,North Macedonia-transit_stations,North Macedonia-transit_stations:2020-02-15 00-00-00,object,(-93.0)-(10.0),-93.0,10.0,79,4
+363,North Macedonia-workplaces,North Macedonia-workplaces:2020-02-15 00-00-00,object,(-90.0)-(22.0),-90.0,22.0,82,4
+364,North Macedonia-residential,North Macedonia-residential:2020-02-15 00-00-00,object,(-6.0)-(36.0),-6.0,36.0,36,4
+365,Norway-workplaces,Norway-workplaces:2020-03-27 00-00-00,object,(-81.06293706)-(-10.57923497),-81.06293706,-10.57923497,196,219
+366,Norway-residential,Norway-residential:2020-08-17 00-00-00,object,(1.47826087)-(3.911111111),1.47826087,3.911111111,18,398
+367,Oman-workplaces,Oman-workplaces:2020-02-15 00-00-00,object,(-59.0)-(13.83333333),-59.0,13.83333333,243,13
+368,Oman-residential,Oman-residential:2020-08-17 00-00-00,object,(5.833333333)-(11.66666667),5.833333333,11.66666667,17,392
+369,Pakistan-parks,Pakistan-parks:2020-02-15 00-00-00,object,(-40.57142857)-(35.38095238),-40.57142857,35.38095238,308,29
+370,Pakistan-workplaces,Pakistan-workplaces:2020-02-15 00-00-00,object,(-65.57142857)-(7.666666667),-65.57142857,7.666666667,334,6
+371,Pakistan-residential,Pakistan-residential:2020-08-17 00-00-00,object,(2.736842105)-(12.15789474),2.736842105,12.15789474,23,392
+372,Panama-retail_recreation,Panama-retail_recreation:2020-02-15 00-00-00,object,(-96.5)-(17.0),-96.5,17.0,155,4
+373,Panama-grocery_pharmacy,Panama-grocery_pharmacy:2020-02-15 00-00-00,object,(-95.5)-(21.5),-95.5,21.5,152,4
+374,Panama-parks,Panama-parks:2020-02-15 00-00-00,object,(-91.0)-(17.5),-91.0,17.5,121,4
+375,Panama-transit_stations,Panama-transit_stations:2020-02-15 00-00-00,object,(-91.5)-(11.0),-91.5,11.0,142,4
+376,Panama-workplaces,Panama-workplaces:2020-02-15 00-00-00,object,(-91.0)-(8.5),-91.0,8.5,138,4
+377,Panama-residential,Panama-residential:2020-02-15 00-00-00,object,(-3.0)-(56.0),-3.0,56.0,95,4
+378,Papua New Guinea-retail_recreation,Papua New Guinea-retail_recreation:2020-02-15 00-00-00,object,(-74.0)-(56.0),-74.0,56.0,75,29
+379,Papua New Guinea-grocery_pharmacy,Papua New Guinea-grocery_pharmacy:2020-02-15 00-00-00,object,(-64.0)-(68.0),-64.0,68.0,80,29
+380,Papua New Guinea-parks,Papua New Guinea-parks:2020-02-15 00-00-00,object,(-35.0)-(5.0),-35.0,5.0,40,29
+381,Papua New Guinea-transit_stations,Papua New Guinea-transit_stations:2020-02-15 00-00-00,object,(-48.0)-(38.0),-48.0,38.0,83,29
+382,Papua New Guinea-workplaces,Papua New Guinea-workplaces:2020-02-15 00-00-00,object,(-74.0)-(28.0),-74.0,28.0,65,10
+383,Papua New Guinea-residential,Papua New Guinea-residential:2020-02-15 00-00-00,object,(-5.0)-(23.0),-5.0,23.0,26,36
+384,Paraguay-retail_recreation,Paraguay-retail_recreation:2020-02-21 00-00-00,object,(-65.27777778)-(2.611111111),-65.27777778,2.611111111,94,314
+385,Paraguay-grocery_pharmacy,Paraguay-grocery_pharmacy:2020-03-13 00-00-00,object,(-34.83333333)-(-10.44444444),-34.83333333,-10.44444444,13,403
+386,Paraguay-parks,Paraguay-parks:2020-08-23 00-00-00,object,(-53.6)-(-47.4),-53.6,-47.4,3,414
+387,Paraguay-workplaces,Paraguay-workplaces:2020-02-15 00-00-00,object,(-77.94444444)-(19.83333333),-77.94444444,19.83333333,294,29
+388,Paraguay-residential,Paraguay-residential:2020-08-17 00-00-00,object,(12.3)-(18.5),12.3,18.5,23,392
+389,Peru-parks,Peru-parks:2020-04-19 00-00-00,object,(-82.5)-(-76.96899225),-82.5,-76.96899225,7,410
+390,Philippines-retail_recreation,Philippines-retail_recreation:2020-02-15 00-00-00,object,(-88.76923077)-(4.576923077),-88.76923077,4.576923077,340,29
+391,Philippines-grocery_pharmacy,Philippines-grocery_pharmacy:2020-02-15 00-00-00,object,(-79.84615385)-(38.23076923),-79.84615385,38.23076923,340,29
+392,Philippines-parks,Philippines-parks:2020-02-15 00-00-00,object,(-63.07692308)-(12.65384615),-63.07692308,12.65384615,324,29
+393,Philippines-transit_stations,Philippines-transit_stations:2020-02-15 00-00-00,object,(-86.11538462)-(1.153846154),-86.11538462,1.153846154,317,29
+394,Philippines-workplaces,Philippines-workplaces:2020-02-15 00-00-00,object,(-77.73076923)-(10.38461538),-77.73076923,10.38461538,351,10
+395,Philippines-residential,Philippines-residential:2020-02-15 00-00-00,object,(-0.153846154)-(40.26923077),-0.153846154,40.26923077,271,5
+396,Poland-workplaces,Poland-workplaces:2020-02-17 00-00-00,object,(-86.23737374)-(30.88695652),-86.23737374,30.88695652,324,93
+397,Poland-residential,Poland-residential:2020-08-17 00-00-00,object,(-3.202857143)-(3.695266272),-3.202857143,3.695266272,19,398
+398,Portugal-workplaces,Portugal-workplaces:2020-06-08 00-00-00,object,(-83.32989691)-(-7.938388626),-83.32989691,-7.938388626,194,222
+399,Portugal-residential,Portugal-residential:2020-08-17 00-00-00,object,(6.085714286)-(11.64646465),6.085714286,11.64646465,14,403
+400,Puerto Rico-retail_recreation,Puerto Rico-retail_recreation:2020-08-29 00-00-00,object,(-22.0)-(-20.85714286),-22.0,-20.85714286,2,415
+401,Puerto Rico-workplaces,Puerto Rico-workplaces:2020-02-17 00-00-00,object,(-82.19178082)-(15.60655738),-82.19178082,15.60655738,246,165
+402,Puerto Rico-residential,Puerto Rico-residential:2020-08-17 00-00-00,object,(10.81818182)-(15.27272727),10.81818182,15.27272727,15,399
+403,Qatar-retail_recreation,Qatar-retail_recreation:2020-02-15 00-00-00,object,(-73.5)-(3.5),-73.5,3.5,113,4
+404,Qatar-grocery_pharmacy,Qatar-grocery_pharmacy:2020-02-15 00-00-00,object,(-49.0)-(42.5),-49.0,42.5,106,4
+405,Qatar-parks,Qatar-parks:2020-02-15 00-00-00,object,(-74.0)-(65.0),-74.0,65.0,133,4
+406,Qatar-transit_stations,Qatar-transit_stations:2020-02-15 00-00-00,object,(-70.5)-(14.5),-70.5,14.5,129,4
+407,Qatar-workplaces,Qatar-workplaces:2020-02-15 00-00-00,object,(-74.5)-(6.5),-74.5,6.5,89,4
+408,Qatar-residential,Qatar-residential:2020-02-15 00-00-00,object,(-1.5)-(33.5),-1.5,33.5,64,4
+409,R?union-retail_recreation,R?union-retail_recreation:2020-02-18 00-00-00,object,(-12.0)-(108.0),-12.0,108.0,36,369
+410,R?union-grocery_pharmacy,R?union-grocery_pharmacy:2020-02-18 00-00-00,object,(-24.0)-(98.0),-24.0,98.0,33,372
+411,R?union-parks,R?union-parks:2020-02-18 00-00-00,object,(-94.0)-(120.0),-94.0,120.0,58,349
+412,R?union-transit_stations,R?union-transit_stations:2020-02-16 00-00-00,object,(-91.0)-(63.0),-91.0,63.0,171,150
+413,R?union-workplaces,R?union-workplaces:2020-02-18 00-00-00,object,(-76.0)-(58.0),-76.0,58.0,35,365
+414,Romania-residential,Romania-residential:2020-09-02 00-00-00,object,(-1.108910891)-(0.529411765),-1.108910891,0.529411765,3,414
+415,Russia-retail_recreation,Russia-retail_recreation:2020-02-15 00-00-00,object,(-67.35294118)-(18.11764706),-67.35294118,18.11764706,324,4
+416,Russia-grocery_pharmacy,Russia-grocery_pharmacy:2020-02-15 00-00-00,object,(-60.35294118)-(33.94117647),-60.35294118,33.94117647,293,4
+417,Russia-parks,Russia-parks:2020-02-15 00-00-00,object,(-60.0)-(98.17647059),-60.0,98.17647059,348,29
+418,Russia-transit_stations,Russia-transit_stations:2020-02-15 00-00-00,object,(-61.35294118)-(19.58823529),-61.35294118,19.58823529,313,4
+419,Russia-workplaces,Russia-workplaces:2020-02-15 00-00-00,object,(-86.47058824)-(80.11764706),-86.47058824,80.11764706,313,4
+420,Russia-residential,Russia-residential:2020-02-15 00-00-00,object,(-13.0)-(26.52941176),-13.0,26.52941176,237,4
+421,Rwanda-transit_stations,Rwanda-transit_stations:2020-08-30 00-00-00,object,(-44.66666667)-(-41.0),-44.66666667,-41.0,2,415
+422,Rwanda-workplaces,Rwanda-workplaces:2020-02-16 00-00-00,object,(-69.33333333)-(11.42857143),-69.33333333,11.42857143,264,95
+423,Rwanda-residential,Rwanda-residential:2020-08-18 00-00-00,object,(12.33333333)-(23.6),12.33333333,23.6,21,395
+424,Saudi Arabia-retail_recreation,Saudi Arabia-retail_recreation:2020-02-15 00-00-00,object,(-80.21428571)-(12.28571429),-80.21428571,12.28571429,283,29
+425,Saudi Arabia-grocery_pharmacy,Saudi Arabia-grocery_pharmacy:2020-02-15 00-00-00,object,(-68.0)-(31.28571429),-68.0,31.28571429,284,29
+426,Saudi Arabia-workplaces,Saudi Arabia-workplaces:2020-02-15 00-00-00,object,(-70.07142857)-(4.571428571),-70.07142857,4.571428571,258,29
+427,Saudi Arabia-residential,Saudi Arabia-residential:2020-02-16 00-00-00,object,(-1.0)-(20.14285714),-1.0,20.14285714,143,106
+428,Senegal-workplaces,Senegal-workplaces:2020-08-21 00-00-00,object,(-25.66666667)-(-17.0),-25.66666667,-17.0,6,410
+429,Senegal-residential,Senegal-residential:2020-08-17 00-00-00,object,(3.25)-(12.33333333),3.25,12.33333333,21,392
+430,Serbia-retail_recreation,Serbia-retail_recreation:2020-02-15 00-00-00,object,(-97.5)-(17.5),-97.5,17.5,144,49
+431,Serbia-grocery_pharmacy,Serbia-grocery_pharmacy:2020-02-15 00-00-00,object,(-97.5)-(39.0),-97.5,39.0,101,49
+432,Serbia-parks,Serbia-parks:2020-02-15 00-00-00,object,(-90.5)-(77.5),-90.5,77.5,195,49
+433,Serbia-transit_stations,Serbia-transit_stations:2020-02-15 00-00-00,object,(-94.5)-(23.0),-94.5,23.0,131,49
+434,Serbia-workplaces,Serbia-workplaces:2020-02-15 00-00-00,object,(-92.0)-(15.0),-92.0,15.0,125,49
+435,Serbia-residential,Serbia-residential:2020-02-15 00-00-00,object,(-7.0)-(40.0),-7.0,40.0,68,49
+436,Singapore-retail_recreation,Singapore-retail_recreation:2020-02-15 00-00-00,object,(-70.0)-(-4.0),-70.0,-4.0,51,4
+437,Singapore-grocery_pharmacy,Singapore-grocery_pharmacy:2020-02-15 00-00-00,object,(-35.0)-(25.0),-35.0,25.0,54,4
+438,Singapore-parks,Singapore-parks:2020-02-15 00-00-00,object,(-73.0)-(35.0),-73.0,35.0,77,4
+439,Singapore-transit_stations,Singapore-transit_stations:2020-02-15 00-00-00,object,(-75.0)-(-9.0),-75.0,-9.0,60,4
+440,Singapore-workplaces,Singapore-workplaces:2020-02-15 00-00-00,object,(-83.0)-(7.0),-83.0,7.0,77,4
+441,Singapore-residential,Singapore-residential:2020-02-15 00-00-00,object,(5.0)-(55.0),5.0,55.0,46,4
+442,Slovakia-workplaces,Slovakia-workplaces:2020-02-17 00-00-00,object,(-87.24390244)-(11.79452055),-87.24390244,11.79452055,303,99
+443,Slovakia-residential,Slovakia-residential:2020-08-17 00-00-00,object,(-0.983870968)-(4.083333333),-0.983870968,4.083333333,18,399
+444,Slovenia-retail_recreation,Slovenia-retail_recreation:2020-08-23 00-00-00,object,(-14.0)-(-6.0),-14.0,-6.0,3,414
+445,Slovenia-workplaces,Slovenia-workplaces:2020-03-19 00-00-00,object,(-69.13815789)-(-10.7012987),-69.13815789,-10.7012987,68,347
+446,Slovenia-residential,Slovenia-residential:2020-08-17 00-00-00,object,(-5.25)-(4.95),-5.25,4.95,22,395
+447,South Africa-retail_recreation,South Africa-retail_recreation:2020-02-15 00-00-00,object,(-82.4)-(28.5),-82.4,28.5,290,25
+448,South Africa-grocery_pharmacy,South Africa-grocery_pharmacy:2020-02-15 00-00-00,object,(-65.9)-(55.9),-65.9,55.9,263,7
+449,South Africa-parks,South Africa-parks:2020-02-15 00-00-00,object,(-50.8)-(25.1),-50.8,25.1,265,29
+450,South Africa-transit_stations,South Africa-transit_stations:2020-02-17 00-00-00,object,(-80.6)-(14.1),-80.6,14.1,233,124
+451,South Africa-workplaces,South Africa-workplaces:2020-02-15 00-00-00,object,(-82.2)-(9.1),-82.2,9.1,286,7
+452,South Africa-residential,South Africa-residential:2020-02-15 00-00-00,object,(-4.0)-(42.5),-4.0,42.5,201,4
+453,South Korea-retail_recreation,South Korea-retail_recreation:2020-02-15 00-00-00,object,(-51.5)-(14.0),-51.5,14.0,92,4
+454,South Korea-grocery_pharmacy,South Korea-grocery_pharmacy:2020-02-15 00-00-00,object,(-23.0)-(70.0),-23.0,70.0,92,4
+455,South Korea-parks,South Korea-parks:2020-02-15 00-00-00,object,(-38.5)-(149.0),-38.5,149.0,187,4
+456,South Korea-transit_stations,South Korea-transit_stations:2020-02-15 00-00-00,object,(-50.5)-(14.0),-50.5,14.0,87,4
+457,South Korea-workplaces,South Korea-workplaces:2020-02-15 00-00-00,object,(-83.0)-(2.0),-83.0,2.0,70,4
+458,South Korea-residential,South Korea-residential:2020-02-15 00-00-00,object,(-1.0)-(32.5),-1.0,32.5,41,4
+459,Spain-retail_recreation,Spain-retail_recreation:2020-02-15 00-00-00,object,(-96.03174603)-(12.41269841),-96.03174603,12.41269841,376,26
+460,Spain-grocery_pharmacy,Spain-grocery_pharmacy:2020-02-15 00-00-00,object,(-91.9047619)-(36.96825397),-91.9047619,36.96825397,315,79
+461,Spain-parks,Spain-parks:2020-02-15 00-00-00,object,(-87.46031746)-(123.1904762),-87.46031746,123.1904762,370,29
+462,Spain-transit_stations,Spain-transit_stations:2020-04-22 00-00-00,object,(-82.3968254)-(-47.85714286),-82.3968254,-47.85714286,11,406
+463,Spain-workplaces,Spain-workplaces:2020-02-15 00-00-00,object,(-87.73015873)-(9.396825397),-87.73015873,9.396825397,363,29
+464,Spain-residential,Spain-residential:2020-02-17 00-00-00,object,(-1.967213115)-(25.73015873),-1.967213115,25.73015873,234,144
+465,Sri Lanka-retail_recreation,Sri Lanka-retail_recreation:2020-02-15 00-00-00,object,(-89.0)-(9.0),-89.0,9.0,87,4
+466,Sri Lanka-grocery_pharmacy,Sri Lanka-grocery_pharmacy:2020-02-15 00-00-00,object,(-92.0)-(30.0),-92.0,30.0,81,4
+467,Sri Lanka-parks,Sri Lanka-parks:2020-02-15 00-00-00,object,(-59.0)-(31.0),-59.0,31.0,72,4
+468,Sri Lanka-transit_stations,Sri Lanka-transit_stations:2020-02-15 00-00-00,object,(-81.0)-(12.0),-81.0,12.0,83,4
+469,Sri Lanka-workplaces,Sri Lanka-workplaces:2020-02-15 00-00-00,object,(-79.0)-(8.0),-79.0,8.0,79,4
+470,Sri Lanka-residential,Sri Lanka-residential:2020-02-15 00-00-00,object,(-1.0)-(47.0),-1.0,47.0,49,4
+471,Sweden-workplaces,Sweden-workplaces:2020-02-17 00-00-00,object,(-81.05970149)-(0.971659919),-81.05970149,0.971659919,248,166
+472,Sweden-residential,Sweden-residential:2020-08-17 00-00-00,object,(3.115702479)-(5.560344828),3.115702479,5.560344828,19,398
+473,Switzerland-retail_recreation,Switzerland-retail_recreation:2020-02-15 00-00-00,object,(-80.07692308)-(2.846153846),-80.07692308,2.846153846,11,406
+474,Switzerland-grocery_pharmacy,Switzerland-grocery_pharmacy:2020-02-15 00-00-00,object,(-24.0)-(14.57692308),-24.0,14.57692308,7,410
+475,Switzerland-transit_stations,Switzerland-transit_stations:2020-02-15 00-00-00,object,(-66.92307692)-(22.61538462),-66.92307692,22.61538462,111,304
+476,Switzerland-workplaces,Switzerland-workplaces:2020-02-15 00-00-00,object,(-85.74074074)-(-0.307692308),-85.74074074,-0.307692308,281,87
+477,Switzerland-residential,Switzerland-residential:2020-08-17 00-00-00,object,(0.6)-(4.5),0.6,4.5,17,398
+478,Taiwan-retail_recreation,Taiwan-retail_recreation:2020-02-15 00-00-00,object,(-28.0)-(10.0),-28.0,10.0,37,4
+479,Taiwan-grocery_pharmacy,Taiwan-grocery_pharmacy:2020-02-15 00-00-00,object,(-12.0)-(27.0),-12.0,27.0,31,4
+480,Taiwan-parks,Taiwan-parks:2020-02-15 00-00-00,object,(-47.0)-(85.0),-47.0,85.0,79,4
+481,Taiwan-transit_stations,Taiwan-transit_stations:2020-02-15 00-00-00,object,(-36.0)-(12.0),-36.0,12.0,36,4
+482,Taiwan-workplaces,Taiwan-workplaces:2020-02-15 00-00-00,object,(-78.0)-(67.0),-78.0,67.0,53,4
+483,Taiwan-residential,Taiwan-residential:2020-02-15 00-00-00,object,(-5.0)-(16.0),-5.0,16.0,21,4
+484,Tajikistan-retail_recreation,Tajikistan-retail_recreation:2020-02-15 00-00-00,object,(-53.0)-(12.5),-53.0,12.5,100,4
+485,Tajikistan-grocery_pharmacy,Tajikistan-grocery_pharmacy:2020-02-15 00-00-00,object,(-52.0)-(19.5),-52.0,19.5,96,4
+486,Tajikistan-parks,Tajikistan-parks:2020-02-15 00-00-00,object,(-44.5)-(17.0),-44.5,17.0,106,11
+487,Tajikistan-transit_stations,Tajikistan-transit_stations:2020-02-15 00-00-00,object,(-59.0)-(3.5),-59.0,3.5,91,4
+488,Tajikistan-workplaces,Tajikistan-workplaces:2020-02-15 00-00-00,object,(-69.0)-(23.5),-69.0,23.5,128,4
+489,Tajikistan-residential,Tajikistan-residential:2020-02-15 00-00-00,object,(-6.0)-(24.0),-6.0,24.0,52,4
+490,Tanzania-residential,Tanzania-residential:2020-08-17 00-00-00,object,(0.5)-(4.214285714),0.5,4.214285714,19,392
+491,Thailand-retail_recreation,Thailand-retail_recreation:2020-02-15 00-00-00,object,(-55.0)-(13.0),-55.0,13.0,65,4
+492,Thailand-grocery_pharmacy,Thailand-grocery_pharmacy:2020-02-15 00-00-00,object,(-27.0)-(32.0),-27.0,32.0,54,4
+493,Thailand-parks,Thailand-parks:2020-02-15 00-00-00,object,(-58.0)-(45.0),-58.0,45.0,63,4
+494,Thailand-transit_stations,Thailand-transit_stations:2020-02-15 00-00-00,object,(-67.0)-(-2.0),-67.0,-2.0,61,4
+495,Thailand-workplaces,Thailand-workplaces:2020-02-15 00-00-00,object,(-70.0)-(7.0),-70.0,7.0,58,4
+496,Thailand-residential,Thailand-residential:2020-02-15 00-00-00,object,(-5.0)-(23.0),-5.0,23.0,28,4
+497,The Bahamas-retail_recreation,The Bahamas-retail_recreation:2020-08-17 00-00-00,object,(-91.0)-(-25.5),-91.0,-25.5,24,392
+498,The Bahamas-parks,The Bahamas-parks:2020-08-18 00-00-00,object,(-63.5)-(-34.5),-63.5,-34.5,2,415
+499,The Bahamas-workplaces,The Bahamas-workplaces:2020-02-17 00-00-00,object,(-82.5)-(5.75),-82.5,5.75,148,107
+500,The Bahamas-residential,The Bahamas-residential:2020-08-17 00-00-00,object,(13.0)-(41.5),13.0,41.5,17,392
+501,Togo-retail_recreation,Togo-retail_recreation:2020-02-16 00-00-00,object,(-48.5)-(4.5),-48.5,4.5,55,336
+502,Togo-grocery_pharmacy,Togo-grocery_pharmacy:2020-02-16 00-00-00,object,(-39.0)-(27.5),-39.0,27.5,66,317
+503,Togo-parks,Togo-parks:2020-02-16 00-00-00,object,(-34.5)-(84.5),-34.5,84.5,67,338
+504,Togo-transit_stations,Togo-transit_stations:2020-02-16 00-00-00,object,(-53.5)-(15.0),-53.5,15.0,59,342
+505,Togo-workplaces,Togo-workplaces:2020-02-15 00-00-00,object,(-60.2)-(12.5),-60.2,12.5,143,11
+506,Togo-residential,Togo-residential:2020-02-16 00-00-00,object,(-1.5)-(25.0),-1.5,25.0,31,317
+507,Trinidad and Tobago-retail_recreation,Trinidad and Tobago-retail_recreation:2020-02-15 00-00-00,object,(-86.0)-(37.0),-86.0,37.0,86,4
+508,Trinidad and Tobago-grocery_pharmacy,Trinidad and Tobago-grocery_pharmacy:2020-02-15 00-00-00,object,(-72.0)-(78.0),-72.0,78.0,77,4
+509,Trinidad and Tobago-parks,Trinidad and Tobago-parks:2020-02-15 00-00-00,object,(-77.0)-(153.0),-77.0,153.0,87,4
+510,Trinidad and Tobago-transit_stations,Trinidad and Tobago-transit_stations:2020-02-15 00-00-00,object,(-87.0)-(29.0),-87.0,29.0,90,4
+511,Trinidad and Tobago-workplaces,Trinidad and Tobago-workplaces:2020-02-15 00-00-00,object,(-85.0)-(21.0),-85.0,21.0,79,4
+512,Trinidad and Tobago-residential,Trinidad and Tobago-residential:2020-02-15 00-00-00,object,(-9.0)-(38.0),-9.0,38.0,44,4
+513,Turkey-residential,Turkey-residential:2020-08-17 00-00-00,object,(-0.969512195)-(2.303405573),-0.969512195,2.303405573,16,401
+514,Uganda-retail_recreation,Uganda-retail_recreation:2020-08-23 00-00-00,object,(-28.5)-(-25.75),-28.5,-25.75,2,413
+515,Uganda-transit_stations,Uganda-transit_stations:2020-08-23 00-00-00,object,(-45.0)-(-41.5),-45.0,-41.5,4,413
+516,Uganda-workplaces,Uganda-workplaces:2020-08-23 00-00-00,object,(-14.5)-(1.25),-14.5,1.25,4,413
+517,Uganda-residential,Uganda-residential:2020-08-17 00-00-00,object,(5.428571429)-(13.0),5.428571429,13.0,20,392
+518,Ukraine-retail_recreation,Ukraine-retail_recreation:2020-02-15 00-00-00,object,(-77.5)-(20.5),-77.5,20.5,127,4
+519,Ukraine-grocery_pharmacy,Ukraine-grocery_pharmacy:2020-02-15 00-00-00,object,(-56.0)-(29.0),-56.0,29.0,86,4
+520,Ukraine-parks,Ukraine-parks:2020-02-15 00-00-00,object,(-50.5)-(92.5),-50.5,92.5,190,4
+521,Ukraine-transit_stations,Ukraine-transit_stations:2020-02-15 00-00-00,object,(-69.5)-(16.5),-69.5,16.5,123,4
+522,Ukraine-workplaces,Ukraine-workplaces:2020-02-15 00-00-00,object,(-86.0)-(9.0),-86.0,9.0,119,4
+523,Ukraine-residential,Ukraine-residential:2020-02-15 00-00-00,object,(-9.0)-(24.0),-9.0,24.0,60,4
+524,United Arab Emirates-retail_recreation,United Arab Emirates-retail_recreation:2020-02-15 00-00-00,object,(-75.75)-(10.5),-75.75,10.5,233,29
+525,United Arab Emirates-grocery_pharmacy,United Arab Emirates-grocery_pharmacy:2020-02-15 00-00-00,object,(-59.125)-(23.375),-59.125,23.375,219,29
+526,United Arab Emirates-workplaces,United Arab Emirates-workplaces:2020-02-15 00-00-00,object,(-72.375)-(4.625),-72.375,4.625,211,25
+527,United Arab Emirates-residential,United Arab Emirates-residential:2020-02-15 00-00-00,object,(0.25)-(22.375),0.25,22.375,104,130
+528,United Kingdom-retail_recreation,United Kingdom-retail_recreation:2020-02-16 00-00-00,object,(-65.32850242)-(-1.657831325),-65.32850242,-1.657831325,10,407
+529,United Kingdom-workplaces,United Kingdom-workplaces:2020-02-17 00-00-00,object,(-84.86634845)-(1.174224344),-84.86634845,1.174224344,273,142
+530,Uruguay-retail_recreation,Uruguay-retail_recreation:2020-02-15 00-00-00,object,(-70.80952381)-(19.28571429),-70.80952381,19.28571429,50,366
+531,Uruguay-grocery_pharmacy,Uruguay-grocery_pharmacy:2020-02-15 00-00-00,object,(-43.52380952)-(16.95238095),-43.52380952,16.95238095,55,362
+532,Uruguay-parks,Uruguay-parks:2020-02-15 00-00-00,object,(-77.0)-(10.0),-77.0,10.0,257,125
+533,Uruguay-workplaces,Uruguay-workplaces:2020-02-15 00-00-00,object,(-66.95238095)-(29.38095238),-66.95238095,29.38095238,291,71
+534,Uruguay-residential,Uruguay-residential:2020-08-17 00-00-00,object,(1.722222222)-(10.86666667),1.722222222,10.86666667,17,399
+535,Venezuela-retail_recreation,Venezuela-retail_recreation:2020-02-15 00-00-00,object,(-75.0)-(17.0),-75.0,17.0,76,4
+536,Venezuela-grocery_pharmacy,Venezuela-grocery_pharmacy:2020-02-15 00-00-00,object,(-62.0)-(44.0),-62.0,44.0,79,4
+537,Venezuela-parks,Venezuela-parks:2020-02-15 00-00-00,object,(-62.0)-(36.0),-62.0,36.0,70,4
+538,Venezuela-transit_stations,Venezuela-transit_stations:2020-02-15 00-00-00,object,(-73.0)-(21.0),-73.0,21.0,83,4
+539,Venezuela-workplaces,Venezuela-workplaces:2020-02-15 00-00-00,object,(-72.0)-(22.0),-72.0,22.0,81,4
+540,Venezuela-residential,Venezuela-residential:2020-02-15 00-00-00,object,(-3.0)-(28.0),-3.0,28.0,31,4
+541,Vietnam-retail_recreation,Vietnam-retail_recreation:2020-02-15 00-00-00,object,(-63.171875)-(16.65625),-63.171875,16.65625,335,33
+542,Vietnam-parks,Vietnam-parks:2020-02-15 00-00-00,object,(-47.0625)-(39.703125),-47.0625,39.703125,263,129
+543,Vietnam-workplaces,Vietnam-workplaces:2020-02-15 00-00-00,object,(-77.15625)-(33.375),-77.15625,33.375,369,29
+544,Vietnam-residential,Vietnam-residential:2020-02-21 00-00-00,object,(-19.359375)-(9.3125),-19.359375,9.3125,257,143
+545,Yemen-retail_recreation,Yemen-retail_recreation:2020-02-15 00-00-00,object,(-34.0)-(48.0),-34.0,48.0,72,5
+546,Yemen-grocery_pharmacy,Yemen-grocery_pharmacy:2020-02-15 00-00-00,object,(-18.0)-(71.0),-18.0,71.0,80,4
+547,Yemen-parks,Yemen-parks:2020-02-15 00-00-00,object,(-29.0)-(64.0),-29.0,64.0,78,29
+548,Yemen-transit_stations,Yemen-transit_stations:2020-02-15 00-00-00,object,(-33.0)-(36.0),-33.0,36.0,61,29
+549,Yemen-workplaces,Yemen-workplaces:2020-02-15 00-00-00,object,(-46.0)-(21.0),-46.0,21.0,48,4
+550,Yemen-residential,Yemen-residential:2020-02-15 00-00-00,object,(-4.0)-(12.0),-4.0,12.0,17,4
+551,Zambia-retail_recreation,Zambia-retail_recreation:2020-02-15 00-00-00,object,(-33.0)-(44.5),-33.0,44.5,100,4
+552,Zambia-grocery_pharmacy,Zambia-grocery_pharmacy:2020-02-15 00-00-00,object,(-25.0)-(55.5),-25.0,55.5,98,4
+553,Zambia-parks,Zambia-parks:2020-02-15 00-00-00,object,(-19.5)-(61.0),-19.5,61.0,111,29
+554,Zambia-transit_stations,Zambia-transit_stations:2020-02-15 00-00-00,object,(-35.0)-(24.5),-35.0,24.5,78,4
+555,Zambia-workplaces,Zambia-workplaces:2020-02-15 00-00-00,object,(-67.0)-(11.5),-67.0,11.5,91,4
+556,Zambia-residential,Zambia-residential:2020-02-15 00-00-00,object,(-2.5)-(24.0),-2.5,24.0,46,4
+557,Zimbabwe-workplaces,Zimbabwe-workplaces:2020-02-17 00-00-00,object,(-68.17391304)-(16.46666667),-68.17391304,16.46666667,241,165
+558,Zimbabwe-residential,Zimbabwe-residential:2020-08-17 00-00-00,object,(12.5)-(25.8),12.5,25.8,21,392
